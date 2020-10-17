@@ -1,6 +1,6 @@
 *斜体*
 
-龙芯处理器[^1]
+
 
 ==highlight==
 
@@ -27,7 +27,7 @@
 windows的where指令可以查看可运行文件的位置。
 
 
-
+test for Luo2017
 
 
 ### 
