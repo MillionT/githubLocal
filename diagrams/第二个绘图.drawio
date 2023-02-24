@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-24T12:18:04.485Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="QfXi4iqZDEk8iq39nCY2" version="20.8.21" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-24T12:27:39.486Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Jr7XW3DYSUqEHh8LuYmw" version="20.8.21" type="github">
   <diagram name="第 1 页" id="rEhqudG2Qi7Mr-dwz_3Q">
-    <mxGraphModel dx="2139" dy="172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2636" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1047,31 +1047,31 @@
         <mxCell id="GAutSBGLja-ZXdYj1-IM-70" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GAutSBGLja-ZXdYj1-IM-65">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-973.09" y="5308.5" as="sourcePoint" />
-            <mxPoint x="-908.09" y="5578.5" as="targetPoint" />
+            <mxPoint x="-910" y="5660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-71" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GAutSBGLja-ZXdYj1-IM-66">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-738.59" y="5168.5" as="sourcePoint" />
-            <mxPoint x="-750.34" y="5578.5" as="targetPoint" />
+            <mxPoint x="-750" y="5660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-72" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GAutSBGLja-ZXdYj1-IM-67">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-573.34" y="5468.5" as="sourcePoint" />
-            <mxPoint x="-587.34" y="5578.5" as="targetPoint" />
+            <mxPoint x="-590" y="5660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-73" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GAutSBGLja-ZXdYj1-IM-68">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-474.84" y="5328.5" as="sourcePoint" />
-            <mxPoint x="-438.84" y="5578.5" as="targetPoint" />
+            <mxPoint x="-440" y="5660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-74" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GAutSBGLja-ZXdYj1-IM-69">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-356.84" y="5398.5" as="sourcePoint" />
-            <mxPoint x="-279.84" y="5578.5" as="targetPoint" />
+            <mxPoint x="-280" y="5660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-75" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;" edge="1" parent="1">
@@ -1133,12 +1133,12 @@
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-89" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-491.84" y="5680" as="sourcePoint" />
-            <mxPoint x="-330.84" y="5700" as="targetPoint" />
+            <mxPoint x="-910" y="5500" as="sourcePoint" />
+            <mxPoint x="-280" y="5520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-90" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;GET_ACK&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-455.34" y="5580" width="80" height="30" as="geometry" />
+          <mxGeometry x="-855.0899999999999" y="5491" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-91" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GAutSBGLja-ZXdYj1-IM-68">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1150,7 +1150,7 @@
           <mxGeometry x="-412.34" y="5154.5" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-93" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Data&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-598.6800000000001" y="5710" width="50" height="30" as="geometry" />
+          <mxGeometry x="-631.94" y="5890" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-94" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1159,10 +1159,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-95" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Data&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-360.34" y="5580" width="50" height="30" as="geometry" />
+          <mxGeometry x="-350.34" y="5910" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-96" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;I =&amp;gt; S&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-1030" y="5640" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1060" y="5810" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-97" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=default;fontSize=13;fillColor=#E6E6E6;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="-272.34" y="5318.5" width="25" height="51.5" as="geometry" />
@@ -1175,23 +1175,23 @@
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-100" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-321.59" y="5630" as="sourcePoint" />
-            <mxPoint x="-791.59" y="5650" as="targetPoint" />
+            <mxPoint x="-280" y="5610" as="sourcePoint" />
+            <mxPoint x="-750" y="5640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-101" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-315.08" y="5510" as="sourcePoint" />
-            <mxPoint x="-475.08" y="5560" as="targetPoint" />
+            <mxPoint x="-357.34999999999997" y="5940" as="sourcePoint" />
+            <mxPoint x="-517.35" y="5990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-102" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;FWD_INV&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-477.33" y="5530" width="80" height="30" as="geometry" />
+          <mxGeometry x="-243.33999999999997" y="5800" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-103" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-791.59" y="5680" as="sourcePoint" />
-            <mxPoint x="-951.59" y="5730" as="targetPoint" />
+            <mxPoint x="-280" y="5530" as="sourcePoint" />
+            <mxPoint x="-910" y="5560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-104" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="1">
@@ -1201,7 +1201,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-105" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;ACK&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-757.59" y="5610" width="50" height="30" as="geometry" />
+          <mxGeometry x="-790.85" y="5790" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-106" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;ACK&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-870" y="5420" width="50" height="30" as="geometry" />
@@ -1213,37 +1213,37 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-108" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;ACK(+Data)&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-688.6800000000001" y="5690" width="90" height="30" as="geometry" />
+          <mxGeometry x="-721.94" y="5870" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-109" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-907.34" y="5619" as="sourcePoint" />
-            <mxPoint x="-277.34" y="5629" as="targetPoint" />
+            <mxPoint x="-590" y="5570" as="sourcePoint" />
+            <mxPoint x="-280" y="5590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-110" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;GET_ACK&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-716.34" y="5700" width="80" height="30" as="geometry" />
+          <mxGeometry x="-749.6" y="5880" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-111" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-280.34" y="5508.5" as="sourcePoint" />
-            <mxPoint x="-750.34" y="5538.5" as="targetPoint" />
+            <mxPoint x="-384.84" y="5810" as="sourcePoint" />
+            <mxPoint x="-854.84" y="5840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-112" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;PUT_ACK&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-542.34" y="5508.5" width="80" height="30" as="geometry" />
+          <mxGeometry x="-577.59" y="5610" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-113" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;INV&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-548.6800000000001" y="5620" width="50" height="30" as="geometry" />
+          <mxGeometry x="-581.94" y="5800" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-114" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;I =&amp;gt; M&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-1021.09" y="5457" width="60" height="30" as="geometry" />
+          <mxGeometry x="-970" y="5468.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-115" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;M =&amp;gt; I&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-791.34" y="5730" width="60" height="30" as="geometry" />
+          <mxGeometry x="-809.6" y="5630" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-116" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;I =&amp;gt; M&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-277.34" y="5468.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="-458.67999999999995" y="5720" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-117" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1320,7 +1320,7 @@
         <mxCell id="GAutSBGLja-ZXdYj1-IM-134" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-590" y="5430" as="sourcePoint" />
-            <mxPoint x="-910" y="5460" as="targetPoint" />
+            <mxPoint x="-910" y="5470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-135" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;ACK&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;labelBackgroundColor=default;" vertex="1" parent="1">
@@ -1328,12 +1328,60 @@
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-136" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-440" y="5430" as="sourcePoint" />
-            <mxPoint x="-910" y="5470" as="targetPoint" />
+            <mxPoint x="-441" y="5440" as="sourcePoint" />
+            <mxPoint x="-910" y="5490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-137" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;ACK(+Data)&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-580.59" y="5428" width="90" height="30" as="geometry" />
+          <mxGeometry x="-710.09" y="5450" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAutSBGLja-ZXdYj1-IM-138" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-280" y="5530" as="sourcePoint" />
+            <mxPoint x="-590" y="5560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GAutSBGLja-ZXdYj1-IM-139" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-280" y="5530" as="sourcePoint" />
+            <mxPoint x="-440" y="5560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GAutSBGLja-ZXdYj1-IM-140" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;PROBE&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-860.8500000000001" y="5541" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAutSBGLja-ZXdYj1-IM-141" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;PROBE&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-560.3400000000001" y="5541" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAutSBGLja-ZXdYj1-IM-142" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;PROBE&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-420.5900000000001" y="5541" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAutSBGLja-ZXdYj1-IM-143" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-910" y="5570" as="sourcePoint" />
+            <mxPoint x="-280" y="5600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GAutSBGLja-ZXdYj1-IM-144" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;I =&amp;gt; F&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-435.34" y="5321" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAutSBGLja-ZXdYj1-IM-145" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-433.83" y="5780" as="sourcePoint" />
+            <mxPoint x="-123.83" y="5800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GAutSBGLja-ZXdYj1-IM-146" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;ACK&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-519.34" y="5560" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAutSBGLja-ZXdYj1-IM-147" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;ACK&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-392.58000000000004" y="5560" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAutSBGLja-ZXdYj1-IM-148" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;ACK(IS_SharerOrOwner)&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-910.85" y="5560" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAutSBGLja-ZXdYj1-IM-149" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;S =&amp;gt; M&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-282.34" y="5511" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
