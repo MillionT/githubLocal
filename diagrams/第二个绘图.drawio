@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-02-24T13:01:13.576Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="CVvX55jDtWuKEnlq3NP7" version="20.8.21" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-24T13:15:20.016Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="64a-4QMShtvl9mIWNsm6" version="20.8.21" type="github">
   <diagram name="第 1 页" id="rEhqudG2Qi7Mr-dwz_3Q">
-    <mxGraphModel dx="2177" dy="194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3036" dy="474" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GAutSBGLja-ZXdYj1-IM-209" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillStyle=auto;strokeWidth=1;fontSize=20;aspect=fixed;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-1115.16" y="6356.5" width="929.32" height="696.99" as="geometry" />
+        </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-150" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillStyle=auto;strokeWidth=1;fontSize=20;aspect=fixed;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-1099.17" y="4997.25" width="963.33" height="722.5" as="geometry" />
         </mxCell>
@@ -1387,154 +1390,145 @@
           <mxGeometry x="-282.34" y="5511" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-151" value="CA 1" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillStyle=auto;strokeWidth=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-986.75" y="6460" width="107" height="56" as="geometry" />
+          <mxGeometry x="-972.76" y="6465" width="107" height="56" as="geometry" />
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-152" value="CA 2" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillStyle=auto;strokeWidth=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-829" y="6460" width="107" height="56" as="geometry" />
+          <mxGeometry x="-815.01" y="6465" width="107" height="56" as="geometry" />
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-153" value="CA 3" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillStyle=auto;strokeWidth=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-666" y="6460" width="107" height="56" as="geometry" />
+          <mxGeometry x="-652.01" y="6465" width="107" height="56" as="geometry" />
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-154" value="CA 4" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillStyle=auto;strokeWidth=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-516.5" y="6460" width="107" height="56" as="geometry" />
+          <mxGeometry x="-502.51" y="6465" width="107" height="56" as="geometry" />
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-155" value="HA" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillStyle=auto;strokeWidth=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-358" y="6460" width="107" height="56" as="geometry" />
+          <mxGeometry x="-344.01" y="6465" width="107" height="56" as="geometry" />
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-156" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GAutSBGLja-ZXdYj1-IM-151">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-997.75" y="6670" as="sourcePoint" />
-            <mxPoint x="-932.75" y="6940" as="targetPoint" />
+            <mxPoint x="-983.76" y="6675" as="sourcePoint" />
+            <mxPoint x="-918.76" y="6945" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-157" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GAutSBGLja-ZXdYj1-IM-152">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-763.25" y="6530" as="sourcePoint" />
-            <mxPoint x="-775" y="6940" as="targetPoint" />
+            <mxPoint x="-749.26" y="6535" as="sourcePoint" />
+            <mxPoint x="-761.01" y="6945" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-158" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GAutSBGLja-ZXdYj1-IM-153">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-598" y="6830" as="sourcePoint" />
-            <mxPoint x="-612" y="6940" as="targetPoint" />
+            <mxPoint x="-584.01" y="6835" as="sourcePoint" />
+            <mxPoint x="-598.01" y="6945" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-159" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GAutSBGLja-ZXdYj1-IM-154">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-499.5" y="6690" as="sourcePoint" />
-            <mxPoint x="-463.5" y="6940" as="targetPoint" />
+            <mxPoint x="-485.51" y="6695" as="sourcePoint" />
+            <mxPoint x="-449.51" y="6945" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-160" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GAutSBGLja-ZXdYj1-IM-155">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-381.5" y="6760" as="sourcePoint" />
-            <mxPoint x="-304.5" y="6940" as="targetPoint" />
+            <mxPoint x="-367.51" y="6765" as="sourcePoint" />
+            <mxPoint x="-290.51" y="6945" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-161" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1044" y="6540" as="sourcePoint" />
-            <mxPoint x="-1044" y="6680" as="targetPoint" />
+            <mxPoint x="-1030.01" y="6545" as="sourcePoint" />
+            <mxPoint x="-1030.01" y="6685" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-162" value="时间线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-1110" y="6600" width="70" height="30" as="geometry" />
+          <mxGeometry x="-1107.67" y="6605" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-163" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GAutSBGLja-ZXdYj1-IM-151">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-924" y="6540" as="sourcePoint" />
-            <mxPoint x="-304" y="6600" as="targetPoint" />
+            <mxPoint x="-910.01" y="6545" as="sourcePoint" />
+            <mxPoint x="-290" y="6730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-164" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;PUT_ExclusiveData&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-911.25" y="6516" width="140" height="30" as="geometry" />
+          <mxGeometry x="-442.58" y="6690" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-165" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GAutSBGLja-ZXdYj1-IM-153">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-604" y="6670" as="sourcePoint" />
-            <mxPoint x="-304" y="6580" as="targetPoint" />
+            <mxPoint x="-590.01" y="6675" as="sourcePoint" />
+            <mxPoint x="-290.01" y="6585" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GAutSBGLja-ZXdYj1-IM-166" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=default;fontSize=13;fillColor=#E6E6E6;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="-299" y="6580" width="25" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="GAutSBGLja-ZXdYj1-IM-167" value="查询目录&lt;br&gt;设置新的&lt;br&gt;forwarder" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="-284" y="6570" width="80" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-168" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;GET_SharedData&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-456.34000000000003" y="6540" width="130" height="30" as="geometry" />
+          <mxGeometry x="-442.35" y="6545" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-169" value="E =&amp;gt; I" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="-1046.75" y="6473" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1032.76" y="6478" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-170" value="I" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="-859" y="6473" width="30" height="30" as="geometry" />
+          <mxGeometry x="-845.01" y="6478" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-171" value="I" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="-696" y="6473" width="30" height="30" as="geometry" />
+          <mxGeometry x="-682.01" y="6478" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-172" value="I" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="-545" y="6473" width="30" height="30" as="geometry" />
+          <mxGeometry x="-531.01" y="6478" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-173" value="E" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="-388" y="6473" width="30" height="30" as="geometry" />
+          <mxGeometry x="-374.01" y="6478" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-175" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-304" y="6630" as="sourcePoint" />
-            <mxPoint x="-464" y="6660" as="targetPoint" />
+            <mxPoint x="-290" y="6620" as="sourcePoint" />
+            <mxPoint x="-920" y="6700" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="GAutSBGLja-ZXdYj1-IM-176" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;FWD_SharedData&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-906.25" y="6800" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GAutSBGLja-ZXdYj1-IM-177" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;startArrow=none;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-922.7" y="6670" as="sourcePoint" />
-            <mxPoint x="-930" y="6670" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GAutSBGLja-ZXdYj1-IM-178" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;PUT_ACK&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-627.84" y="6840" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GAutSBGLja-ZXdYj1-IM-179" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-464" y="6670" as="sourcePoint" />
-            <mxPoint x="-934" y="6720" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GAutSBGLja-ZXdYj1-IM-180" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Data&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-724" y="6680" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-181" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-934" y="6730" as="sourcePoint" />
-            <mxPoint x="-304" y="6780" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GAutSBGLja-ZXdYj1-IM-182" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;GET_ACK&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-699" y="6740" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GAutSBGLja-ZXdYj1-IM-183" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;I =&amp;gt; S&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-1080.34" y="6850" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GAutSBGLja-ZXdYj1-IM-184" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=default;fontSize=13;fillColor=#E6E6E6;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="-297.5" y="6630" width="25" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="GAutSBGLja-ZXdYj1-IM-185" value="阻塞" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="-274" y="6690" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GAutSBGLja-ZXdYj1-IM-187" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;FWD_SharedData&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-1060" y="6780" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GAutSBGLja-ZXdYj1-IM-189" value="" style="endArrow=none;html=1;rounded=0;fontSize=13;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-304" y="6620" as="sourcePoint" />
-            <mxPoint x="-930" y="6670" as="targetPoint" />
+            <mxPoint x="-942.35" y="7110" as="sourcePoint" />
+            <mxPoint x="-312.34999999999997" y="7160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GAutSBGLja-ZXdYj1-IM-190" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;FWD_SharedData&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-910" y="6650" width="130" height="30" as="geometry" />
+          <mxGeometry x="-910" y="6670" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAutSBGLja-ZXdYj1-IM-191" value="丢弃消息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="-991.09" y="6690" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAutSBGLja-ZXdYj1-IM-192" value="阻塞消息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="-292.08" y="6720" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAutSBGLja-ZXdYj1-IM-193" value="陷入死锁" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="-292.34000000000003" y="6810" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAutSBGLja-ZXdYj1-IM-194" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;dashed=1;dashPattern=12 12;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-890" y="6730" as="sourcePoint" />
+            <mxPoint x="-630" y="6760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GAutSBGLja-ZXdYj1-IM-196" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Data&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-753.34" y="6730" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAutSBGLja-ZXdYj1-IM-201" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;dashed=1;dashPattern=12 12;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-570" y="6810" as="sourcePoint" />
+            <mxPoint x="-350" y="6860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GAutSBGLja-ZXdYj1-IM-202" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;GET_ACK&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-531.94" y="6810" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAutSBGLja-ZXdYj1-IM-203" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;dashed=1;dashPattern=12 12;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-360" y="6900" as="sourcePoint" />
+            <mxPoint x="-860" y="6930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GAutSBGLja-ZXdYj1-IM-204" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;PUT_ACK&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="6900" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAutSBGLja-ZXdYj1-IM-205" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1260" y="6655" width="27" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
