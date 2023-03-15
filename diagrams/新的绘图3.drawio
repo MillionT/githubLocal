@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-15T06:19:06.188Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="3Z_HojA1sedRozLqNMcU" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-15T07:10:22.664Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="hhK62DclHWnkvbRiJUNH" version="21.0.6" type="github">
   <diagram name="第 1 页" id="7vKhMJO-kykulenLBiTj">
-    <mxGraphModel dx="6689" dy="1723" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4485" dy="382" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2539,9 +2539,6 @@
         <mxCell id="6Ed6YHXusyxUpZST9bvO-365" value="&lt;font color=&quot;#cc0000&quot;&gt;阻塞消息&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="1532.92" y="13922" width="70" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="6Ed6YHXusyxUpZST9bvO-366" value="&lt;font color=&quot;#cc0000&quot;&gt;陷入死锁&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="1532.6599999999999" y="14012" width="70" height="28" as="geometry" />
-        </mxCell>
         <mxCell id="6Ed6YHXusyxUpZST9bvO-367" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;dashed=1;dashPattern=1 1;strokeColor=#3399FF;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="902" y="13928" as="sourcePoint" />
@@ -2551,10 +2548,10 @@
         <mxCell id="6Ed6YHXusyxUpZST9bvO-368" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Data&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="1066.6599999999999" y="13931" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6Ed6YHXusyxUpZST9bvO-369" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;dashed=1;dashPattern=1 1;entryX=-0.026;entryY=0.601;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;strokeColor=#3399FF;" parent="1" edge="1" target="6Ed6YHXusyxUpZST9bvO-366">
+        <mxCell id="6Ed6YHXusyxUpZST9bvO-369" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;dashed=1;dashPattern=1 1;entryX=-0.026;entryY=0.601;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;strokeColor=#3399FF;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1223" y="13983" as="sourcePoint" />
-            <mxPoint x="1470" y="14061" as="targetPoint" />
+            <mxPoint x="1530.8400000000001" y="14028.828" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6Ed6YHXusyxUpZST9bvO-370" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;GET_ACK&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;labelBackgroundColor=default;" parent="1" vertex="1">
